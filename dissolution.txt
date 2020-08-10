@@ -16,3 +16,8 @@ now being the me in the now,
 which we're long past,
 for this commit shall be laid to rest,
 in an anti-branch, oh.
+
+We could've destroyed the paragraph above,
+but I think it's important that our history remains intact.
+
+[Note to future commit: 'go for it']
